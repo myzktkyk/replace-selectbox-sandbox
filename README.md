@@ -4,6 +4,7 @@ Sample app for replacing selectbox options by ajax.
 
 ![Image](http://f.st-hatena.com/images/fotolife/J/JunichiIto/20150409/20150409090748.gif)
 
+
 ## How to setup
 
 ### 1. Install PhantomJS
